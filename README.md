@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Email Spam Detection using SVM and NLTK
 
 ## Overview
@@ -10,7 +27,7 @@ This project implements an **Email Spam Detection** system using **Support Vecto
 - Dataset handling and evaluation metrics
 
 ## Installation
-
+pip install -r requirements.txt
 ### Prerequisites
 - Python 3.x
 - NLTK
