@@ -1,20 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Email Spam Detection using SVM and NLTK
 
 ## Overview
